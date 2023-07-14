@@ -7,7 +7,7 @@ Olá mundo! Eu sou Marlon Taborda, e aqui vão algumas informações sobre mim:
     
 ## 🚩 Aonde mais estou?
 Aqui você confere os links para minhas principais redes sociais e plataformas. Fique à vontade para entrar em contato!
-* [Instagram](https://www.instagram.com/meotaborda/)
+* [Instagram](https://www.instagram.com/marlon_taborda/)
 * [LinkedIn](https://www.linkedin.com/in/marlon-taborda)
 * ~~Youtube (em breve)~~
 * ~~Dev.to (em breve)~~
